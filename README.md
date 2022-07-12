@@ -1,9 +1,4 @@
 <p>
-<a href="https://sheumais.github.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/Sheumais/Sheumais.github.io/main/style/hexagon.png" width="10%" /> 
-</a>
-</p>
-<p>
 <h1>Hey, I'm Sheumais 👋</h1>
 I'm a hobbyist programmer & full-time student.
 </p>
@@ -18,3 +13,7 @@ I have gained a modest level of experience in:
   <li>GLSL</li>
   <li>Python</li>
 </ul>
+</p>
+<p>
+You can view my website <a href="https://sheumais.github.io/" target="_blank">here</a>.
+</p>
