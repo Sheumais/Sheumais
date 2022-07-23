@@ -9,7 +9,7 @@ I'm pursuing full-stack web development using Github & learning the freedom of c
 I have gained a modest level of experience in:
 <ul>
   <li>HTML</li>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>GLSL</li>
   <li>Python</li>
 </ul>
